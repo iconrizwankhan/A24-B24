@@ -1,0 +1,2 @@
+what is ecma script? and current ecma script version?.
+Difference between var and let.
