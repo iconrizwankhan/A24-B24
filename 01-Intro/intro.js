@@ -67,3 +67,9 @@
 // example();
 // const x=100;
 // console.log(x);
+
+var a;  // intialization
+a=6; //declaring
+a=7;//reassignimg
+
+console.log(a);
