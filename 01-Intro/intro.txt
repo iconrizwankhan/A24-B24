@@ -1,2 +1,3 @@
-what is ecma script? and current ecma script version?.
-Difference between var and let.
+-what is ecma script? and current ecma script version?.
+-Difference between var and let and const.
+-

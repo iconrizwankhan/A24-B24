@@ -68,8 +68,22 @@
 // const x=100;
 // console.log(x);
 
-var a;  // intialization
-a=6; //declaring
-a=7;//reassignimg
+// var a;  // intialization
+// a=6; //declaring
+// a=7;//reassignimg
 
+// console.log(a);
+
+//types of datatypes
+
+
+let a = 10;
 console.log(a);
+
+ function print() {
+    var a = 11;
+    console.log(a);
+ }
+ print();
+
+
